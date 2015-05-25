@@ -1,0 +1,1 @@
+Simple Django Blog - Add Posts and Images
